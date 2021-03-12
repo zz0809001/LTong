@@ -22,7 +22,7 @@
 #### 进入日常任务daily-task，然后Enable Workflow启用工作流  
 ![Snipaste_2021-03-01_05-46-47](https://user-images.githubusercontent.com/79479594/109433041-a428a980-7a51-11eb-8825-8f3e17813a53.png)
 
-#### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处的  /*  。再点击下方绿色Commit changes保存。
+#### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处的    。再点击下方绿色Commit changes保存。
 ![Snipaste_2021-03-01_05-51-46](https://user-images.githubusercontent.com/79479594/109433473-ce7b6680-7a53-11eb-9a1a-c095ab45fcf5.png)
     
 ![Snipaste_2021-03-01_05-54-48](https://user-images.githubusercontent.com/79479594/109433247-bbb46200-7a52-11eb-91be-c48f28503c0f.png)
